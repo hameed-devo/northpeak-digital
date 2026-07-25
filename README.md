@@ -1,56 +1,115 @@
-# NorthPeak Digital
+# # NorthPeak Digital
 
-A premium fictional digital agency website built for the Digital Heroes Web Development internship qualification task.
+A modern, responsive one-page agency website built as part of the Digital Heroes Web Development Assessment.
 
-## Tech Stack
+## 🚀 Live Demo
 
-- React 19
-- Vite 8
-- Tailwind CSS 4
-- Framer Motion
-- React Icons
+[https://northpeak-digital-liard-alpha.vercel.app/](https://northpeak-digital-liard-alpha.vercel.app/)
 
-## Getting Started
+## 📂 GitHub Repository
+
+[https://github.com/hameed-devo/northpeak-digital](https://github.com/hameed-devo/northpeak-digital)
+
+## 🛠️ Technologies Used
+
+- React.js
+
+- Vite
+
+- Tailwind CSS
+
+- JavaScript (ES6+)
+
+- HTML5
+
+- CSS3
+
+## ✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+
+- Hero section
+
+- Services section
+
+- Why Choose Us section
+
+- Development Process
+
+- Client Testimonials
+
+- Pricing Plans
+
+- FAQ Section
+
+- Contact Form with client-side validation
+
+- Modern UI with reusable React components
+
+## 📊 Lighthouse Scores
+
+| Category | Score |
+
+|----------|------:|
+
+| Performance | 100 |
+
+| Accessibility | 93 |
+
+| Best Practices | 100 |
+
+| SEO | 100 |
+
+## 💻 Run Locally
+
+Clone the repository:
 
 ```bash
+
+git clone [https://github.com/hameed-devo/northpeak-digital.git](https://github.com/hameed-devo/northpeak-digital.git)
+
+```
+
+Go into the project folder:
+
+```bash
+
+cd northpeak-digital
+
+```
+
+Install dependencies:
+
+```bash
+
 npm install
-npm run dev
+
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Build
+Start the development server:
 
 ```bash
+
+npm run dev
+
+```
+
+Build for production:
+
+```bash
+
 npm run build
+
+```
+
+Preview the production build:
+
+```bash
+
 npm run preview
-```
-
-## Project Structure
 
 ```
-src/
-├── components/
-│   ├── layout/       # Header, Footer
-│   ├── sections/     # Page sections (Hero, Services, etc.)
-│   └── ui/           # Reusable UI (Button, Container, Accordion)
-├── data/             # Static content
-├── hooks/            # Custom hooks
-├── App.jsx           # Main app with lazy-loaded sections
-├── main.jsx          # Entry point
-└── index.css         # Tailwind + global styles
-```
 
-## Features
+## 👨‍💻 Author
 
-- Fully responsive (360px – 1440px+)
-- Semantic HTML with ARIA labels
-- Keyboard navigation and focus states
-- Form validation
-- Subtle Framer Motion animations
-- Lazy-loaded below-the-fold sections
-- Reduced motion support
-
-## Credit
-
-Built for [Digital Heroes Training Task](https://digitalheroesco.com)
+M. A. Hameed
